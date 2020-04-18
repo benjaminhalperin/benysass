@@ -1,0 +1,15 @@
+{
+  "name": "benysass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/css.scss css/style.css"
+  },
+  "author": "beny",
+  "license": "ISC"
+}
